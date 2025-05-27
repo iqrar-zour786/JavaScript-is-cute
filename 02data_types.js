@@ -29,7 +29,7 @@ these are primitive datatypes of javascript.
 
 // OBJECT
 
-console.log(typeof "iqrar");
+console.log(typeof "iqrar")
 
 console.log(typeof 10);
 
