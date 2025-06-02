@@ -37,5 +37,3 @@ let file = String (numbervalue)
 
 console.log(file);
 console.log(typeof file);
-
-
