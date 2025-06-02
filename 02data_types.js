@@ -26,7 +26,6 @@ symbol = unique
 these are primitive datatypes of javascript.
 */
 
-
 // OBJECT
 
 console.log(typeof "iqrar")
@@ -40,4 +39,3 @@ console.log(typeof age);
 console.log(typeof null); // this is an object of javascript.
 
 console.log(typeof undefined); // undefined value.
-
