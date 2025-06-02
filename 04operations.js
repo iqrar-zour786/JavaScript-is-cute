@@ -20,6 +20,7 @@ let str2 = " Iqrar"
 let str3 = str1 + str2
 console.log(str3);
 
+
 console.log(1 + "3");
 console.log(1 + "3" + 2);
 console.log(1 + 3 + "3");
@@ -27,8 +28,10 @@ console.log("1" + 3);
 console.log(1 + 3 * 2 % 2); //this method is not good ..
 console.log((2 +3) * 2 % 3); // this method is good for everything.
 
+
 console.log(1 + "3");
 console.log(1 + "3");
+
 
 console.log(true);
 
