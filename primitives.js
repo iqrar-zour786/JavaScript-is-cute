@@ -10,6 +10,7 @@ let balances = 30;
 
 // BOOLEAN
 
+
 let isActive = true;
 let iseallyActive = new Boolean(true); // not recommended
 
