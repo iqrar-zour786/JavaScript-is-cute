@@ -41,3 +41,6 @@ let isLoggedin = false;
 
 let score = "2abc";
 console.log(typeof Number(score));
+
+
+
